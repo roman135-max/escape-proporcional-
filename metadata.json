@@ -1,0 +1,6 @@
+{
+  "name": "Escape Proporcional",
+  "description": "Juego 2D de terror y matemáticas ambientado en una escuela embrujada. Escapa de los fantasmas resolviendo desafíos de proporcionalidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
